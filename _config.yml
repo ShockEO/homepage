@@ -33,10 +33,12 @@ people:
     #- title: linkedin
     #  url: #
 
-#- name: Herman Nel
-#  pic: Herman_photo
-#  position: Co-founder and CFO
-#  social:
+- name: Herman Nel
+  pic: herman_photo
+  position: Co-founder and CFO
+  social:
+  - title: linkedin
+      url: https://www.linkedin.com/in/herman-nel-9a002a47/
 #    - title: twitter
 #      url: #
 #    - title: facebook
